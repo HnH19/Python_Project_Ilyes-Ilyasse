@@ -1,0 +1,63 @@
+-----------TOTAL 1 (First Course) Analysis---------------
+*********OUR DATA**************
+count    36500.000000
+mean         4.497191
+std          0.867011
+min          3.000083
+25%          3.742003
+50%          4.494223
+75%          5.252525
+max          5.999818
+Name: TOTAL1, dtype: float64
+*********DATA PROVIDED*********
+count    36500.000000
+mean         6.088251
+std          8.263022
+min          0.000000
+25%          0.000000
+50%          3.152179
+75%         15.077843
+max         21.999663
+Name: FIRST_COURSE, dtype: float64
+-----------TOTAL 2 (Second Course) Analysis---------------
+*********OUR DATA**************
+count    36500.000000
+mean        21.497191
+std          0.867011
+min         20.000083
+25%         20.742003
+50%         21.494223
+75%         22.252525
+max         22.999818
+Name: TOTAL2, dtype: float64
+*********DATA PROVIDED*********
+count    36500.000000
+mean        25.736147
+std         10.487456
+min          9.000835
+25%         20.248807
+50%         26.049937
+75%         29.323154
+max         44.999891
+Name: SECOND_COURSE, dtype: float64
+-----------TOTAL 3 (Third Course) Analysis---------------
+*********OUR DATA**************
+count    36500.000000
+mean        11.497191
+std          0.867011
+min         10.000083
+25%         10.742003
+50%         11.494223
+75%         12.252525
+max         12.999818
+Name: TOTAL3, dtype: float64
+*********DATA PROVIDED*********
+count    36500.000000
+mean         4.177825
+std          5.627158
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%         10.703457
+max         16.999557
+Name: THIRD_COURSE, dtype: float64
